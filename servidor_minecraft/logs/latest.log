@@ -1162,3 +1162,7 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 18:27:58.677] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [23Dec2024 18:28:17.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55426] logged in with entity id 18534 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
 [23Dec2024 18:28:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:30:37.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by Skeleton
+[23Dec2024 18:30:37.484] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:33:45.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/20162, l='ServerLevel[world]', x=118.57, y=95.00, z=1062.51] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:33:50.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/20161, l='ServerLevel[world]', x=119.52, y=95.00, z=1061.08] died: Zombie Player was slain by SrDaalo
