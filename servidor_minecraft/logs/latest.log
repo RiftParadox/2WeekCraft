@@ -1082,3 +1082,83 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23Dec2024 18:17:50.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
 [23Dec2024 18:17:50.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
 [23Dec2024 18:17:50.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:18:25.787] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:54981] logged in with entity id 13122 at (95.71088748536589, 86.21204265723162, 1048.9329378087748)
+[23Dec2024 18:18:25.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:18:32.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:18:32.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:18:32.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:19:07.037] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:54998] logged in with entity id 13557 at (95.71088748536589, 86.21204265723162, 1048.9329378087748)
+[23Dec2024 18:19:07.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:19:13.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:19:13.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:19:13.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:19:39.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55037] logged in with entity id 14006 at (95.71088748536589, 86.21204265723162, 1048.9329378087748)
+[23Dec2024 18:19:39.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:20:53.784] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[23Dec2024 18:22:22.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie Player
+[23Dec2024 18:22:22.530] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[23Dec2024 18:22:22.532] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:23:11.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:23:11.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:23:11.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:23:32.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55138] logged in with entity id 16254 at (95.0609767368805, 95.16829455792568, 1052.9570201299641)
+[23Dec2024 18:23:32.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:23:39.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:23:39.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:23:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:25:07.635] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55211] logged in with entity id 16565 at (95.0609767368805, 95.16829455792568, 1052.9570201299641)
+[23Dec2024 18:25:07.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:25:30.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:25:30.727] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:25:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:25:35.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55221] logged in with entity id 17116 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
+[23Dec2024 18:25:35.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:25:41.278] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:25:41.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:25:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:25:58.381] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55225] logged in with entity id 17401 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
+[23Dec2024 18:25:58.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:26:05.129] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:26:05.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:26:05.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:27:22.881] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55367] logged in with entity id 17802 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
+[23Dec2024 18:27:22.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:27:30.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:27:30.280] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:27:30.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:27:51.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55417] logged in with entity id 18059 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
+[23Dec2024 18:27:51.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[23Dec2024 18:27:58.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo was kicked for floating too long!
+[23Dec2024 18:27:58.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Flying is not enabled on this server
+[23Dec2024 18:27:58.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[23Dec2024 18:27:58.640] [Netty Epoll Server IO #2/WARN] [io.netty.util.concurrent.DefaultPromise/]: An exception was thrown by net.minecraft.network.Connection$$Lambda/0x00007e34f2970840.operationComplete()
+java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
+	at io.netty.channel.DefaultChannelPipeline.getContextOrDie(DefaultChannelPipeline.java:1073) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPipeline.remove(DefaultChannelPipeline.java:423) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md9a3b5a$lambda$on$0$2(Connection.java:1110) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.addListener(DefaultPromise.java:184) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:95) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.addListener(DefaultChannelPromise.java:30) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at net.minecraft.network.Connection.md9a3b5a$lambda$on$1$1(Connection.java:1088) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
+	at io.netty.util.concurrent.DefaultPromise.notifyListener0(DefaultPromise.java:578) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListenersNow(DefaultPromise.java:552) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.notifyListeners(DefaultPromise.java:491) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setValue0(DefaultPromise.java:616) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.setSuccess0(DefaultPromise.java:605) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.DefaultPromise.trySuccess(DefaultPromise.java:104) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.DefaultChannelPromise.trySuccess(DefaultChannelPromise.java:84) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.safeSetSuccess(AbstractChannel.java:990) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.channel.AbstractChannel$AbstractUnsafe$7.run(AbstractChannel.java:823) ~[netty-transport-4.1.82.Final.jar%2385!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.runTask(AbstractEventExecutor.java:174) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.AbstractEventExecutor.safeExecute(AbstractEventExecutor.java:167) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor.runAllTasks(SingleThreadEventExecutor.java:470) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:403) ~[netty-transport-classes-epoll-4.1.82.Final.jar%2386!/:4.1.82.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar%2382!/:4.1.82.Final]
+	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[23Dec2024 18:27:58.677] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[23Dec2024 18:28:17.233] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:55426] logged in with entity id 18534 at (99.07604967259199, 80.26962190673558, 1051.9546563771157)
+[23Dec2024 18:28:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
