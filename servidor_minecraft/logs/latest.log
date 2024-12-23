@@ -1184,3 +1184,10 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 18:55:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Gift Delivery]
 [23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Treasure from the Past]
 [23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Where Is The Stone Pen?]
+[23Dec2024 19:01:18.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Close Quarters]
+[23Dec2024 19:01:29.178] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[23Dec2024 19:03:24.082] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26371, l='ServerLevel[world]', x=-730.30, y=72.94, z=925.06] died, message: 'Villager was slain by Zombie'
+[23Dec2024 19:03:28.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/26373, l='ServerLevel[world]', x=-727.70, y=78.00, z=963.30] died, message: 'Farmer was slain by Zombie'
+[23Dec2024 19:03:38.778] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/26458, l='ServerLevel[world]', x=-758.30, y=80.00, z=945.01] died, message: 'Weaponsmith was slain by Zombie'
+[23Dec2024 19:06:51.130] [Netty Epoll Server IO #4/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[23Dec2024 19:06:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Knowledge raises the soul]
