@@ -1166,3 +1166,21 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 18:30:37.484] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
 [23Dec2024 18:33:45.260] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/20162, l='ServerLevel[world]', x=118.57, y=95.00, z=1062.51] died: Zombie Player was slain by SrDaalo
 [23Dec2024 18:33:50.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/20161, l='ServerLevel[world]', x=119.52, y=95.00, z=1061.08] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:40:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Take Aim]
+[23Dec2024 18:40:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Bone Crusher]
+[23Dec2024 18:46:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[23Dec2024 18:46:51.146] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[23Dec2024 18:46:51.154] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:47:35.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/22526, l='ServerLevel[world]', x=155.61, y=120.58, z=1000.30] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:48:17.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Dec2024 18:49:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[23Dec2024 18:49:18.426] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[23Dec2024 18:49:18.427] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:49:37.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/23359, l='ServerLevel[world]', x=150.48, y=124.20, z=992.66] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:52:09.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[23Dec2024 18:52:40.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[23Dec2024 18:53:05.049] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[23Dec2024 18:55:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Your First Receptacle]
+[23Dec2024 18:55:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Gift Delivery]
+[23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Treasure from the Past]
+[23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Where Is The Stone Pen?]

@@ -12507,3 +12507,84 @@ java.util.NoSuchElementException: DefaultChannelPipeline$TailContext#0
 [23Dec2024 18:33:50.311] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/20161, l='ServerLevel[world]', x=119.52, y=95.00, z=1061.08] died: Zombie Player was slain by SrDaalo
 [23Dec2024 18:38:41.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 18:38:41.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:40:06.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Take Aim]
+[23Dec2024 18:40:14.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Bone Crusher]
+[23Dec2024 18:43:41.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:43:41.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:46:51.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[23Dec2024 18:46:51.146] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[23Dec2024 18:46:51.154] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:47:35.972] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/22526, l='ServerLevel[world]', x=155.61, y=120.58, z=1000.30] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:48:17.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Dec2024 18:48:26.807] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:blank
+[23Dec2024 18:48:41.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:48:41.651] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:49:18.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[23Dec2024 18:49:18.426] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[23Dec2024 18:49:18.427] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[23Dec2024 18:49:37.022] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/23359, l='ServerLevel[world]', x=150.48, y=124.20, z=992.66] died: Zombie Player was slain by SrDaalo
+[23Dec2024 18:50:18.774] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[23Dec2024 18:50:24.714] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[23Dec2024 18:50:30.385] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/ship
+[23Dec2024 18:51:09.109] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[23Dec2024 18:51:12.051] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/shelter/tunnel_top
+[23Dec2024 18:51:46.305] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[23Dec2024 18:51:46.313] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[23Dec2024 18:51:46.329] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[23Dec2024 18:51:46.334] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[23Dec2024 18:51:46.335] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[23Dec2024 18:51:46.341] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_3 is being run through DFU (hash 87585b478e3870e6dfdc4175f0be09d3a47f732ee6eb6f8298cb860380951b38), this will cause launch time delays
+[23Dec2024 18:51:46.763] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[23Dec2024 18:51:46.780] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[23Dec2024 18:51:46.795] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[23Dec2024 18:51:46.813] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[23Dec2024 18:51:46.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[23Dec2024 18:51:46.834] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[23Dec2024 18:51:46.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[23Dec2024 18:51:46.890] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[23Dec2024 18:51:46.917] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[23Dec2024 18:51:47.915] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[23Dec2024 18:51:47.939] [Worker-Main-40/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[23Dec2024 18:51:48.809] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[23Dec2024 18:51:55.053] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:military
+[23Dec2024 18:52:09.479] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[23Dec2024 18:52:19.556] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[23Dec2024 18:52:27.207] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[23Dec2024 18:52:29.701] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:mansion
+[23Dec2024 18:52:40.929] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[23Dec2024 18:52:45.521] [Worker-Main-1/DEBUG] [ModernFix/]: Structure undead_revamp2:goldentomb is being run through DFU (hash 63a6a57a0a587c0b90126b157a50e71a0a28a0c8efaa9f0266468e4c6546f8f6), this will cause launch time delays
+[23Dec2024 18:52:58.908] [Worker-Main-40/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_0 is being run through DFU (hash 1497612195e1c3437613f4a0b399542740027b53e57da6c7c6051fe69c109053), this will cause launch time delays
+[23Dec2024 18:52:58.934] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[23Dec2024 18:52:58.939] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[23Dec2024 18:53:00.588] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[23Dec2024 18:53:05.049] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[23Dec2024 18:53:11.541] [Worker-Main-2/DEBUG] [ModernFix/]: Structure apocalypsenow:post is being run through DFU (hash a6affdc3c2de2c76b0e747b9929dad33c848f82e2e0fc28a898f705ab07c2680), this will cause launch time delays
+[23Dec2024 18:53:13.832] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of apocalypsenow:house
+[23Dec2024 18:53:37.802] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[23Dec2024 18:53:38.249] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[23Dec2024 18:53:38.258] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[23Dec2024 18:53:38.262] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[23Dec2024 18:53:41.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:53:41.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 18:53:48.545] [Worker-Main-40/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:lore/outpost
+[23Dec2024 18:53:52.280] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[23Dec2024 18:53:52.499] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[23Dec2024 18:53:52.509] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[23Dec2024 18:53:52.529] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[23Dec2024 18:53:52.541] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[23Dec2024 18:53:52.548] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[23Dec2024 18:53:57.065] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[23Dec2024 18:54:03.523] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[23Dec2024 18:54:03.539] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[23Dec2024 18:54:03.548] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_0_speed is being run through DFU (hash 08c7dbcac4361b53f887a0b139a27993c17934fa5265d08549feddfd41f6b04d), this will cause launch time delays
+[23Dec2024 18:54:03.555] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_3_resistance is being run through DFU (hash 31d70c13becb5994ae3d8506fb89bcbfb627317d737970714740a759f8d5ae3e), this will cause launch time delays
+[23Dec2024 18:54:03.559] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_4_haste is being run through DFU (hash 613f92c92d7def00c8677d40d9d4b5d9ac159ea26dcea3f4f197c5e275fdbb65), this will cause launch time delays
+[23Dec2024 18:54:03.564] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_1_regen is being run through DFU (hash b0fbd23a1fcc0edd723dcc70fe49a848056f159acd67c0c5b8355404aae3ea35), this will cause launch time delays
+[23Dec2024 18:54:03.569] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_effect_2_wither is being run through DFU (hash 90dec482e3981c736d3dcd45680ac122a284bce1164192f739d37f6d8b89ea28), this will cause launch time delays
+[23Dec2024 18:54:12.793] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:wroughtnaut_chamber
+[23Dec2024 18:55:59.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Your First Receptacle]
+[23Dec2024 18:55:59.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Gift Delivery]
+[23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Treasure from the Past]
+[23Dec2024 18:56:11.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Where Is The Stone Pen?]
+[23Dec2024 18:58:41.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 18:58:41.682] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
