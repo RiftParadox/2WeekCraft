@@ -1124,3 +1124,6 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:10:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
 [26Dec2024 17:11:16.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:51052] logged in with entity id 12635 at (-1039.5067739543524, 76.0, 534.7905901195155)
 [26Dec2024 17:11:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[26Dec2024 17:16:48.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[26Dec2024 17:16:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[26Dec2024 17:17:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Coal] to ANTH3]

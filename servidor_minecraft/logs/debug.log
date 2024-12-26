@@ -9549,3 +9549,10 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:11:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
 [26Dec2024 17:12:24.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 17:12:24.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 17:16:48.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[26Dec2024 17:16:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[26Dec2024 17:17:24.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 17:17:24.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 17:17:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Coal] to ANTH3]
+[26Dec2024 17:22:24.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 17:22:24.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
