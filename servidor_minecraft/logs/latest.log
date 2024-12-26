@@ -2820,3 +2820,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 21:23:06.592] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
 [26Dec2024 21:26:44.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 burned to death
 [26Dec2024 21:26:44.836] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:32:44.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by ANTH3
+[26Dec2024 21:32:44.717] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:34:07.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
+[26Dec2024 21:34:07.221] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:34:07.256] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:34:07.257] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Dec2024 21:34:07.257] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:34:07.257] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:34:07.257] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:34:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
+[26Dec2024 21:34:17.474] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:34:30.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:34:33.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:34:35.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:34:35.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 fell from a high place
+[26Dec2024 21:34:36.000] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:34:37.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Discreet Search]
+[26Dec2024 21:34:51.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:35:13.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[26Dec2024 21:35:13.090] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:35:29.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo fell from a high place
+[26Dec2024 21:35:29.047] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:35:37.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 fell from a high place
+[26Dec2024 21:35:37.592] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:36:49.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:37:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
