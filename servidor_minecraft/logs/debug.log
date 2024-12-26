@@ -9256,3 +9256,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 16:32:12.555] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
 [26Dec2024 16:32:24.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 16:32:24.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:33:42.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Not of Chocolate]
+[26Dec2024 16:34:07.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Quickly Applied]
+[26Dec2024 16:34:10.817] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[26Dec2024 16:34:10.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Let The Magic Happen]
+[26Dec2024 16:34:10.819] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[26Dec2024 16:36:11.157] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[26Dec2024 16:37:16.475] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[26Dec2024 16:37:24.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:37:25.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 16:37:28.407] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[26Dec2024 16:42:24.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 16:42:25.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

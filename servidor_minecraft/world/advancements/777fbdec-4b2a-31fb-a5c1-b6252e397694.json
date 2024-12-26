@@ -3516,6 +3516,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-26 16:35:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"
@@ -3540,9 +3546,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2024-12-26 16:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-26 16:37:49 +0000"
     },
     "done": true
   },
@@ -3564,9 +3582,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-26 16:38:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-26 16:38:08 +0000"
     },
     "done": true
   },
@@ -3579,6 +3609,12 @@
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
     },
     "done": true
   },
