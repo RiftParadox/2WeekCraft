@@ -1171,6 +1171,7 @@
       "minecraft:cave_spider": "2024-12-26 19:17:01 +0000",
       "minecraft:enderman": "2024-12-26 21:40:34 +0000",
       "minecraft:zombie": "2024-12-23 19:02:18 +0000",
+      "minecraft:drowned": "2024-12-26 22:18:19 +0000",
       "minecraft:zombie_villager": "2024-12-23 19:04:10 +0000"
     },
     "done": false
@@ -5551,6 +5552,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-26 22:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2024-12-26 22:06:37 +0000"
@@ -5680,6 +5687,12 @@
   "immersiveengineering:recipes/misc/crafting/cokebrick": {
     "criteria": {
       "has_item": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/mb_cokeoven": {
+    "criteria": {
+      "form_multiblock": "2024-12-26 22:15:36 +0000"
     },
     "done": true
   },
