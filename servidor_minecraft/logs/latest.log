@@ -1136,3 +1136,42 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:53:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Voluntary Exile]
 [26Dec2024 17:53:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Ambush]
 [26Dec2024 17:53:46.548] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[26Dec2024 18:05:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has reached the goal [Strong or Careful]
+[26Dec2024 18:05:30.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
+[26Dec2024 18:05:30.674] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:06:37.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[26Dec2024 18:06:37.954] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:06:37.956] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:06:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Strong or Careful]
+[26Dec2024 18:06:50.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[26Dec2024 18:06:50.003] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[26Dec2024 18:06:50.005] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 18:07:02.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[26Dec2024 18:07:02.952] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:07:02.954] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:07:31.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie Player
+[26Dec2024 18:07:31.902] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:07:31.904] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:07:34.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/18105, l='ServerLevel[world]', x=-1030.70, y=78.31, z=568.70] died: Zombie Player was slain by SrDaalo
+[26Dec2024 18:07:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Where Is The Stone Pen?]
+[26Dec2024 18:07:41.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> ???
+[26Dec2024 18:07:47.835] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/18229, l='ServerLevel[world]', x=-1029.70, y=78.20, z=569.37] died: Zombie Player was slain by SrDaalo
+[26Dec2024 18:07:50.784] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/18189, l='ServerLevel[world]', x=-1030.68, y=78.32, z=570.30] died: Zombie Player was slain by SrDaalo
+[26Dec2024 18:07:53.936] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/18022, l='ServerLevel[world]', x=-1031.30, y=78.00, z=569.49] died: Zombie Player was slain by SrDaalo
+[26Dec2024 18:11:29.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [HAMMAH!]
+[26Dec2024 18:11:56.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [HAMMAH!]
+[26Dec2024 18:12:33.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [We Need to Go Deeper]
+[26Dec2024 18:12:33.666] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[26Dec2024 18:12:37.539] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANTH3 moved too quickly! 6.475373131680385,0.2247629905309907,7.662226205626894
+[26Dec2024 18:12:37.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6914ms or 138 ticks behind
+[26Dec2024 18:14:17.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [The Path to Better Gear]
+[26Dec2024 18:14:29.456] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[26Dec2024 18:16:31.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [The survivor]
+[26Dec2024 18:16:57.217] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[26Dec2024 18:18:36.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[26Dec2024 18:18:36.753] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[26Dec2024 18:18:36.756] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 18:19:21.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/22123, l='ServerLevel[world]', x=-943.21, y=76.00, z=635.06] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:20:46.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by The Horrors
+[26Dec2024 18:20:46.115] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:21:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [My Bald Satanic Goth Girl Friend]
