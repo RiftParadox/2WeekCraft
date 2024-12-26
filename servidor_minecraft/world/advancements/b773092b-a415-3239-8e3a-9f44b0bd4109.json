@@ -5174,6 +5174,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-26 19:27:25 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "rice": "2024-12-26 19:16:02 +0000"
@@ -5222,6 +5228,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-26 19:27:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-26 18:13:20 +0000"
@@ -5237,6 +5249,12 @@
   "tombstone:adventure/use_recall": {
     "criteria": {
       "coded_trigger": "2024-12-26 18:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-26 19:27:25 +0000"
     },
     "done": true
   },
@@ -5273,6 +5291,12 @@
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
       "coded_trigger": "2024-12-26 18:06:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-26 19:31:52 +0000"
     },
     "done": true
   },

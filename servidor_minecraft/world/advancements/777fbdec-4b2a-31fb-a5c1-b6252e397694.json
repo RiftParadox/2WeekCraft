@@ -3762,6 +3762,12 @@
     },
     "done": true
   },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-26 19:32:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"

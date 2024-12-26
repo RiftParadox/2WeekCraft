@@ -1270,3 +1270,6 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 19:17:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Magic Writing]
 [26Dec2024 19:17:07.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Amateur Archaeologist]
 [26Dec2024 19:19:00.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/redstone/link/LinkBehaviour$Mode
+[26Dec2024 19:29:40.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 19:31:52.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Death Will Not Be Enough]
+[26Dec2024 19:32:09.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Night Night]
