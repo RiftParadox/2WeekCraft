@@ -9846,3 +9846,52 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
 [26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
 [26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:34:50.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:34:50.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:34:50.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:34:50.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:35:19.705] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[26Dec2024 18:35:40.054] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:35:40.055] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:35:40.055] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:35:40.055] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:35:40.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[26Dec2024 18:35:40.506] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:35:40.515] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:36:08.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/34144, l='ServerLevel[world]', x=-1020.43, y=79.00, z=574.39] died, message: 'Villager was slain by Zombie'
+[26Dec2024 18:36:30.059] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:36:30.060] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:36:30.060] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:36:30.060] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:37:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 18:37:20.070] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:37:20.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:37:20.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:37:20.071] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:37:33.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:37:33.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:37:37.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/34939, l='ServerLevel[world]', x=-1056.10, y=74.00, z=554.94] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:38:39.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 18:38:50.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[26Dec2024 18:38:50.155] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[26Dec2024 18:38:50.161] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 18:38:50.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Husk
+[26Dec2024 18:38:50.802] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:38:50.804] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:39:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set SrDaalo's game mode to Creative Mode]
+[26Dec2024 18:39:00.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 18:39:16.400] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['SrDaalo'/36062, l='ServerLevel[world]', x=-1056.90, y=74.00, z=557.23] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:39:33.205] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/36108, l='ServerLevel[world]', x=-1056.92, y=74.00, z=557.52] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:40:02.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 18:40:15.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Husk
+[26Dec2024 18:40:15.452] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 18:40:15.453] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:40:15.455] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:40:15.455] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[26Dec2024 18:40:15.456] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 18:40:15.456] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 18:40:15.456] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[26Dec2024 18:40:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 18:40:42.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/36627, l='ServerLevel[world]', x=-1055.44, y=75.00, z=562.05] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:42:33.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:42:33.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

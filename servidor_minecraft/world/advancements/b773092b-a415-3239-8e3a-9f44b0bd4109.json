@@ -1163,6 +1163,7 @@
       "minecraft:spider": "2024-12-26 01:33:39 +0000",
       "minecraft:creeper": "2024-12-26 01:36:45 +0000",
       "minecraft:zombified_piglin": "2024-12-26 18:14:04 +0000",
+      "minecraft:husk": "2024-12-26 18:34:53 +0000",
       "minecraft:zombie": "2024-12-23 19:02:18 +0000",
       "minecraft:zombie_villager": "2024-12-23 19:04:10 +0000"
     },
@@ -5164,6 +5165,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:40:56 +0000"
+    },
+    "done": true
+  },
   "apocalypsenow:thesurvivor": {
     "criteria": {
       "thesurvivor_0": "2024-12-26 18:16:31 +0000"
@@ -5266,6 +5273,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_gold": {
+    "criteria": {
+      "has_plate_gold": "2024-12-26 18:40:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_bud": {
     "criteria": {
       "has_brimstone": "2024-12-26 18:12:58 +0000"
@@ -5329,6 +5342,18 @@
   "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-26 18:12:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:40:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:40:56 +0000"
     },
     "done": true
   },
