@@ -1118,3 +1118,9 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 16:54:24.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
 [26Dec2024 16:54:24.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
 [26Dec2024 16:54:24.142] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 17:05:38.367] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[26Dec2024 17:06:50.707] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[26Dec2024 17:10:52.752] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[26Dec2024 17:10:52.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[26Dec2024 17:11:16.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:51052] logged in with entity id 12635 at (-1039.5067739543524, 76.0, 534.7905901195155)
+[26Dec2024 17:11:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
