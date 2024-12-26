@@ -2399,3 +2399,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 20:24:37.394] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
 [26Dec2024 20:24:37.784] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
 [26Dec2024 20:24:59.031] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[26Dec2024 20:26:51.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ordana/immersive_weathering/network/SendCustomParticlesPacket$EventType
+[26Dec2024 20:28:46.830] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[26Dec2024 20:30:39.125] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[26Dec2024 20:32:15.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[26Dec2024 20:32:16.117] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[26Dec2024 20:32:22.447] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[26Dec2024 20:33:07.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Leeroy Is Back]
+[26Dec2024 20:33:45.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
+[26Dec2024 20:33:45.551] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 20:33:45.568] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 20:33:45.569] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Dec2024 20:33:45.569] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 20:33:45.569] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 20:33:45.569] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 20:34:52.480] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult

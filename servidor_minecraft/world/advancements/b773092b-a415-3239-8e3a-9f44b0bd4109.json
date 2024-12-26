@@ -5504,15 +5504,117 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick_from_slab": {
+    "criteria": {
+      "has_cokebrick": "2024-12-26 20:31:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alloybrick": {
+    "criteria": {
+      "has_brick": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cokebrick_to_slab": {
+    "criteria": {
+      "has_cokebrick": "2024-12-26 20:31:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2024-12-26 20:31:03 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
       "lifeturnedouttobeacomedy_0": "2024-12-26 20:15:54 +0000"
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/cokebrick": {
+    "criteria": {
+      "has_item": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-26 20:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/brick": {
+    "criteria": {
+      "has_copper_block": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blastbrick": {
+    "criteria": {
+      "has_item": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/sand": {
+    "criteria": {
+      "has_copper_block": "2024-12-26 20:24:56 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:immersive_weathering/bark_off": {
     "criteria": {
       "wax_off": "2024-12-26 20:19:51 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/concrete": {
+    "criteria": {
+      "has_clay": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-26 20:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-12-26 20:31:14 +0000"
     },
     "done": true
   },
