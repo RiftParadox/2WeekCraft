@@ -2672,3 +2672,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23271!/:?]
 	at java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[26Dec2024 20:47:11.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Applied enchantment Efficiency III to ANTH3's item]
+[26Dec2024 20:49:43.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 20:50:02.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
+[26Dec2024 20:51:07.854] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/structures/StrongholdPieces$StrongholdPiece$SmallDoorType
+[26Dec2024 20:51:48.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 20:52:21.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 20:52:40.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Heliomancer]
+[26Dec2024 20:53:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by Skeleton
+[26Dec2024 20:53:13.943] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 20:53:32.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by Skeleton
+[26Dec2024 20:53:32.888] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 20:55:29.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Batteries Not Included]
+[26Dec2024 20:56:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 20:56:11.140] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 20:56:13.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler

@@ -5516,9 +5516,27 @@
     },
     "done": true
   },
+  "mutantmonsters:you_da_bomby": {
+    "criteria": {
+      "tamed_creeper_minion": "2024-12-26 20:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-26 20:42:17 +0000"
     },
     "done": true
   },
@@ -5531,6 +5549,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-26 20:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 20:42:08 +0000"
     },
     "done": true
   },
@@ -5582,9 +5606,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 20:42:08 +0000"
+    },
+    "done": true
+  },
   "immersive_weathering:recipes/brick": {
     "criteria": {
       "has_copper_block": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 20:42:08 +0000"
     },
     "done": true
   },
