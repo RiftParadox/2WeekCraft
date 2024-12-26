@@ -5284,6 +5284,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-26 18:25:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-26 18:13:20 +0000"
@@ -5305,6 +5311,12 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2024-12-26 18:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-26 18:25:57 +0000"
     },
     "done": true
   },

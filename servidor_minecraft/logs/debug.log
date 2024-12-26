@@ -9817,3 +9817,32 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 18:21:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [My Bald Satanic Goth Girl Friend]
 [26Dec2024 18:22:31.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 18:22:31.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:24:24.670] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[26Dec2024 18:24:25.143] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2098ms or 41 ticks behind
+[26Dec2024 18:24:25.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo moved too quickly! 2.7122806804629818,-0.5040129017765196,9.749192396766944
+[26Dec2024 18:26:31.631] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26Dec2024 18:26:31.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26Dec2024 18:27:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 18:27:33.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:27:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:28:22.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 18:29:24.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 18:29:32.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[26Dec2024 18:29:45.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 18:31:06.351] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/33144, l='ServerLevel[world]', x=-1057.47, y=80.75, z=598.70] died, message: 'Cartographer was slain by Zombie'
+[26Dec2024 18:32:02.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Good Demoman]
+[26Dec2024 18:32:33.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 18:32:33.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 18:33:10.004] [Server thread/INFO] [hordes/]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@34243e98]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[26Dec2024 18:33:10.007] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6a68f15e
+[26Dec2024 18:33:10.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[26Dec2024 18:33:10.010] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[26Dec2024 18:33:10.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:33:10.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:33:10.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:33:10.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:33:23.852] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[26Dec2024 18:34:00.052] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_villager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 20
+[26Dec2024 18:34:00.053] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 20
