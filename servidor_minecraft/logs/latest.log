@@ -1007,3 +1007,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 15:56:03.639] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [26Dec2024 15:56:03.655] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
 [26Dec2024 15:56:10.051] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[26Dec2024 16:15:06.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 64 [Rotten Flesh] to SrDaalo
+[26Dec2024 16:15:39.393] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[26Dec2024 16:17:35.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new subtitle for SrDaalo
+[26Dec2024 16:17:49.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANTH3[/100.69.143.60:55529] logged in with entity id 3064 at (-1015.0573837786732, 78.0, 570.5352348327218)
+[26Dec2024 16:17:49.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 joined the game
+[26Dec2024 16:18:35.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Showing new subtitle for 2 players
+[26Dec2024 16:19:33.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[26Dec2024 16:19:33.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> bro
+[26Dec2024 16:19:35.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> dc
+[26Dec2024 16:19:58.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> A dormir cabron
+[26Dec2024 16:20:17.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> jdksjdksjdka
+[26Dec2024 16:20:29.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> si vio lo que pone al pasar el dia?
+[26Dec2024 16:20:45.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> miscosas
+[26Dec2024 16:21:08.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> las suyas irian alla
+[26Dec2024 16:21:13.314] [Netty Epoll Server IO #3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[26Dec2024 16:21:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> Mentiras mi amor
+[26Dec2024 16:21:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> estamos empezando asi que nos compartimos
+[26Dec2024 16:21:31.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> Compartimas
+[26Dec2024 16:21:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> Pero organice bien perra vagabunda
+[26Dec2024 16:22:00.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> entre al hpta dc mano
