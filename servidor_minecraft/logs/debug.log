@@ -11207,3 +11207,29 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 21:37:01.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 21:37:01.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 21:37:10.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:37:57.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported SrDaalo to ANTH3]
+[26Dec2024 21:38:12.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has completed the challenge [My Bald Satanic Goth Girl Friend]
+[26Dec2024 21:38:12.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [First big catch of the month!]
+[26Dec2024 21:39:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[26Dec2024 21:39:16.183] [Server thread/DEBUG] [tombstone/]: A new grave of the player ANTH3 was created at position [x:-939, y:76, z:684, dim:minecraft:overworld]
+[26Dec2024 21:39:16.188] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:39:16.234] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:39:16.234] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[26Dec2024 21:39:16.235] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:39:16.235] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:39:16.235] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[26Dec2024 21:39:32.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has completed the challenge [Well, that was disgusting]
+[26Dec2024 21:40:02.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported SrDaalo to ANTH3]
+[26Dec2024 21:40:24.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Enderman
+[26Dec2024 21:40:24.930] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-916, y:76, z:657, dim:minecraft:overworld]
+[26Dec2024 21:40:24.932] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:40:25.010] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:40:25.010] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Dec2024 21:40:25.010] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:40:25.010] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:40:25.010] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:41:55.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Double Trouble]
+[26Dec2024 21:42:01.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:42:01.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:47:01.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:47:01.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

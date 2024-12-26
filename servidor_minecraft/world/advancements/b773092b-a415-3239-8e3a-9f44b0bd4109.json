@@ -1169,6 +1169,7 @@
       "minecraft:wither_skeleton": "2024-12-26 21:27:43 +0000",
       "minecraft:husk": "2024-12-26 18:34:53 +0000",
       "minecraft:cave_spider": "2024-12-26 19:17:01 +0000",
+      "minecraft:enderman": "2024-12-26 21:40:34 +0000",
       "minecraft:zombie": "2024-12-23 19:02:18 +0000",
       "minecraft:zombie_villager": "2024-12-23 19:04:10 +0000"
     },
@@ -5562,9 +5563,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 21:38:12 +0000"
+    },
+    "done": true
+  },
   "lootr:50loot": {
     "criteria": {
       "loot_stat": "2024-12-26 20:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 21:38:12 +0000"
     },
     "done": true
   },
@@ -5586,6 +5599,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-26 21:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-26 20:42:08 +0000"
@@ -5604,9 +5623,27 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2024-12-26 21:39:32 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2024-12-26 21:38:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-26 20:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 21:38:12 +0000"
     },
     "done": true
   },
@@ -5655,6 +5692,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-26 20:42:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 21:38:12 +0000"
     },
     "done": true
   },
@@ -5709,6 +5752,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-12-26 20:31:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2024-12-26 21:38:12 +0000"
     },
     "done": true
   },

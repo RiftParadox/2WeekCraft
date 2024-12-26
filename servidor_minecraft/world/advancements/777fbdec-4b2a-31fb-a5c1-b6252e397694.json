@@ -4737,6 +4737,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2024-12-26 21:41:55 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/manual": {
     "criteria": {
       "has_book": "2024-12-26 20:58:39 +0000"
