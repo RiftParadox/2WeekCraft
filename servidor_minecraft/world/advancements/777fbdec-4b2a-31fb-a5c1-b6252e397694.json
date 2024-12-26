@@ -4709,6 +4709,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:44:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-26 22:29:18 +0000"
@@ -4844,6 +4850,12 @@
   "undead_revamp2:nowyouknow": {
     "criteria": {
       "nowyouknow_0": "2024-12-26 20:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-26 22:44:30 +0000"
     },
     "done": true
   },

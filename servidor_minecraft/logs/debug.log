@@ -11401,3 +11401,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 22:35:58.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Big Boy]
 [26Dec2024 22:37:01.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 22:37:01.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:39:15.707] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of stalwart_dungeons:keeping_castle_spawn
+[26Dec2024 22:42:01.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:42:01.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 22:42:20.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 22:42:29.438] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
+[26Dec2024 22:42:29.487] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
+[26Dec2024 22:42:29.508] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[26Dec2024 22:42:31.056] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[26Dec2024 22:42:31.070] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[26Dec2024 22:42:31.081] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[26Dec2024 22:42:31.099] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[26Dec2024 22:42:31.117] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[26Dec2024 22:42:31.124] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[26Dec2024 22:42:32.883] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:small_labyrinth
+[26Dec2024 22:42:36.004] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of horror_element_mod:graveyard
+[26Dec2024 22:43:13.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 22:43:21.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 22:43:31.431] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[26Dec2024 22:43:31.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[26Dec2024 22:43:31.459] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[26Dec2024 22:43:31.462] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[26Dec2024 22:43:31.487] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[26Dec2024 22:43:31.490] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[26Dec2024 22:43:57.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 22:44:01.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 22:44:28.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 10 [Lapis Lazuli] to ANTH3]
+[26Dec2024 22:44:39.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 54 [Lapis Lazuli] to ANTH3]
+[26Dec2024 22:45:38.930] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[26Dec2024 22:45:38.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[26Dec2024 22:45:43.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set the weather to clear]
+[26Dec2024 22:46:53.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 128 [Gunpowder] to ANTH3]
+[26Dec2024 22:47:01.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 22:47:01.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
