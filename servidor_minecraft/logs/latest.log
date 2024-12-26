@@ -1135,3 +1135,4 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:53:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Ambush]
 [26Dec2024 17:53:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Voluntary Exile]
 [26Dec2024 17:53:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Ambush]
+[26Dec2024 17:53:46.548] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType

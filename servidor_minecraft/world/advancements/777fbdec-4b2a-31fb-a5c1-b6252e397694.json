@@ -1479,6 +1479,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2024-12-26 17:53:05 +0000",
       "minecraft:skeleton": "2024-12-23 17:41:03 +0000",
       "minecraft:spider": "2024-12-26 01:36:40 +0000",
       "minecraft:creeper": "2024-12-26 01:39:06 +0000",
@@ -3667,6 +3668,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-26 17:53:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2024-12-26 16:35:11 +0000"
@@ -4276,6 +4283,12 @@
   "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
     "criteria": {
       "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 17:53:05 +0000"
     },
     "done": true
   },
