@@ -13,7 +13,7 @@
 
 [Zombifications]
 	#Default true
-	"Should the player convert after getting killed by a zombie?" = true
+	"Should the player convert after getting killed by a zombie?" = false
 	#Default true
 	"Should the villager convert after getting killed by a zombie?" = true
 	#Default 0.2
