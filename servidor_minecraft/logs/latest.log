@@ -3022,3 +3022,38 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 22:59:20.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Copper Ingot] to ANTH3]
 [26Dec2024 23:07:59.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Clock] to ANTH3]
 [26Dec2024 23:08:43.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Enchanter]
+[26Dec2024 23:11:43.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 23:13:05.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set the weather to clear]
+[26Dec2024 23:13:07.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Good Demoman]
+[26Dec2024 23:14:01.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 23:14:41.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by SrDaalo
+[26Dec2024 23:14:41.633] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 23:19:50.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Raw Porkchop] to ANTH3]
+[26Dec2024 23:20:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Steak] to ANTH3]
+[26Dec2024 23:20:26.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 23:20:32.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 23:20:52.190] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[26Dec2024 23:20:52.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ANTH3> oe me escucha?
+[26Dec2024 23:21:05.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 23:21:55.428] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[26Dec2024 23:21:55.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[26Dec2024 23:22:02.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:53739] logged in with entity id 98692 at (-701.3523538821729, 65.0, 607.0527233584162)
+[26Dec2024 23:22:02.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[26Dec2024 23:22:29.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Acacia Brigg] to ANTH3]
+[26Dec2024 23:23:16.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Acacia Cog] to ANTH3]
+[26Dec2024 23:23:42.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo burned to death
+[26Dec2024 23:23:42.983] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 23:24:25.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 tried to swim in lava
+[26Dec2024 23:24:25.080] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 23:24:56.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> okey
+[26Dec2024 23:24:59.629] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANTH3 lost connection: Disconnected
+[26Dec2024 23:24:59.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 left the game
+[26Dec2024 23:25:16.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> okey
+[26Dec2024 23:27:55.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[26Dec2024 23:27:55.034] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 23:28:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[26Dec2024 23:28:05.138] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 23:28:26.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by SrDaalo
+[26Dec2024 23:28:26.284] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 23:28:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[26Dec2024 23:28:34.199] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved

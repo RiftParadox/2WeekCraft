@@ -87,6 +87,7 @@
     "criteria": {
       "minecraft:taiga": "2024-12-23 17:13:51 +0000",
       "minecraft:cherry_grove": "2024-12-26 01:32:15 +0000",
+      "minecraft:beach": "2024-12-26 23:12:54 +0000",
       "minecraft:river": "2024-12-26 01:59:56 +0000",
       "minecraft:stony_shore": "2024-12-23 16:58:15 +0000",
       "minecraft:snowy_taiga": "2024-12-23 17:16:10 +0000",
@@ -619,9 +620,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-26 23:11:19 +0000",
       "cooked_mutton": "2024-12-26 01:45:34 +0000",
       "sweet_berries": "2024-12-23 17:37:05 +0000",
+      "cooked_beef": "2024-12-26 23:20:06 +0000",
       "beef": "2024-12-23 17:05:14 +0000",
+      "pumpkin_pie": "2024-12-26 23:18:25 +0000",
       "bread": "2024-12-26 02:43:44 +0000",
       "golden_apple": "2024-12-26 16:44:49 +0000",
       "cooked_chicken": "2024-12-26 01:40:00 +0000"
@@ -1816,10 +1820,13 @@
       "coniferous_forest": "2024-12-26 02:00:04 +0000",
       "spider_nest": "2024-12-26 03:01:20 +0000",
       "redwood_forest": "2024-12-26 21:36:57 +0000",
+      "dune_beach": "2024-12-26 23:13:01 +0000",
+      "seasonal_forest": "2024-12-26 23:15:42 +0000",
       "pasture": "2024-12-26 18:29:14 +0000",
       "fir_clearing": "2024-12-26 01:59:20 +0000",
       "prairie": "2024-12-26 01:32:36 +0000",
-      "gravel_beach": "2024-12-26 18:54:42 +0000"
+      "gravel_beach": "2024-12-26 18:54:42 +0000",
+      "ominous_woods": "2024-12-26 23:17:55 +0000"
     },
     "done": false
   },
@@ -4775,6 +4782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2024-12-26 20:52:42 +0000"
@@ -4835,6 +4848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2024-12-26 20:56:53 +0000"
@@ -4877,6 +4896,12 @@
     },
     "done": true
   },
+  "smallships:recipes/combat/cannon": {
+    "criteria": {
+      "has_ship": "2024-12-26 23:22:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_smelts_to_glass": "2024-12-26 22:11:31 +0000"
@@ -4901,6 +4926,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 23:10:42 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-26 22:29:18 +0000"
@@ -4913,9 +4944,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-26 23:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2024-12-26 20:58:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 23:10:42 +0000"
     },
     "done": true
   },
