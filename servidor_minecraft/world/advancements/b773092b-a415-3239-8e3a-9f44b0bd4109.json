@@ -462,7 +462,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2024-12-26 02:16:44 +0000",
-      "opened_chest": "2024-12-23 17:00:12 +0000"
+      "opened_chest": "2024-12-23 17:00:12 +0000",
+      "opened_cart": "2024-12-26 19:15:53 +0000"
     },
     "done": false
   },
@@ -1164,6 +1165,7 @@
       "minecraft:creeper": "2024-12-26 01:36:45 +0000",
       "minecraft:zombified_piglin": "2024-12-26 18:14:04 +0000",
       "minecraft:husk": "2024-12-26 18:34:53 +0000",
+      "minecraft:cave_spider": "2024-12-26 19:17:01 +0000",
       "minecraft:zombie": "2024-12-23 19:02:18 +0000",
       "minecraft:zombie_villager": "2024-12-23 19:04:10 +0000"
     },
@@ -5154,6 +5156,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 19:16:02 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/diamond_reinforced_hammer": {
     "criteria": {
       "has_material": "2024-12-26 18:49:17 +0000"
@@ -5166,9 +5174,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "rice": "2024-12-26 19:16:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-26 18:12:58 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2024-12-26 19:15:53 +0000"
     },
     "done": true
   },
@@ -5274,6 +5294,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-26 19:15:59 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
     "criteria": {
       "has_brimstone": "2024-12-26 18:12:58 +0000"
@@ -5340,6 +5366,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2024-12-26 19:16:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-26 18:13:20 +0000"
@@ -5400,6 +5432,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2024-12-26 19:16:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2024-12-26 18:40:56 +0000"
@@ -5412,9 +5450,21 @@
     },
     "done": true
   },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-26 19:17:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2024-12-26 18:10:06 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2024-12-26 19:17:07 +0000"
     },
     "done": true
   },

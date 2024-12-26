@@ -3606,6 +3606,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-26 19:15:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/super_glue": {
     "criteria": {
       "has_item": "2024-12-26 18:11:26 +0000"
@@ -3675,6 +3681,12 @@
   "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
     "criteria": {
       "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-26 19:17:12 +0000"
     },
     "done": true
   },
@@ -3999,6 +4011,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2024-12-26 19:18:57 +0000"
     },
     "done": true
   },

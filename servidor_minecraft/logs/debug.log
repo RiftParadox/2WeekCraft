@@ -9941,3 +9941,14 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 19:12:52.776] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/common
 [26Dec2024 19:12:52.783] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/arch
 [26Dec2024 19:12:52.788] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of aquamirae:ice_maze/spiral
+[26Dec2024 19:15:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has reached the goal [Big Boy]
+[26Dec2024 19:15:53.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Tunnel Treasures]
+[26Dec2024 19:16:02.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Crops of the Wild]
+[26Dec2024 19:16:15.619] [Worker-Main-103/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[26Dec2024 19:17:07.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Magic Writing]
+[26Dec2024 19:17:07.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Amateur Archaeologist]
+[26Dec2024 19:17:33.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:17:33.941] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 19:19:00.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/redstone/link/LinkBehaviour$Mode
+[26Dec2024 19:22:33.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 19:22:33.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
