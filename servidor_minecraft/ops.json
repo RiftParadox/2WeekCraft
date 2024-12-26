@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "777fbdec-4b2a-31fb-a5c1-b6252e397694",
+    "name": "ANTH3",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
