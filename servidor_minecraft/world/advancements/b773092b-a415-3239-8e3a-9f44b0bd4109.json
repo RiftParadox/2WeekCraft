@@ -5527,6 +5527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 22:06:37 +0000"
+    },
+    "done": true
+  },
   "mutantmonsters:you_da_bomby": {
     "criteria": {
       "tamed_creeper_minion": "2024-12-26 20:42:17 +0000"
@@ -5542,6 +5548,18 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-12-26 20:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 22:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 22:06:37 +0000"
     },
     "done": true
   },
@@ -5707,6 +5725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2024-12-26 22:02:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/skillet": {
     "criteria": {
       "has_brick": "2024-12-26 20:31:14 +0000"
@@ -5743,9 +5767,27 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-26 22:00:46 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2024-12-26 22:06:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2024-12-26 20:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 22:06:37 +0000"
     },
     "done": true
   },
@@ -5764,6 +5806,12 @@
   "tombstone:adventure/discreet_search": {
     "criteria": {
       "coded_trigger": "2024-12-26 21:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-26 22:00:46 +0000"
     },
     "done": true
   },
