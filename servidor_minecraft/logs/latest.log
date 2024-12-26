@@ -1128,3 +1128,10 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:16:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
 [26Dec2024 17:17:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Coal] to ANTH3]
 [26Dec2024 17:27:30.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 5 [Diamond Hammer] to ANTH3]
+[26Dec2024 17:41:57.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Diorite] to ANTH3]
+[26Dec2024 17:48:20.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SrDaalo[/100.121.48.121:51820] logged in with entity id 15085 at (-1048.2534344546443, 78.0, 589.899229915717)
+[26Dec2024 17:48:20.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo joined the game
+[26Dec2024 17:51:59.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [The Andesite Age]
+[26Dec2024 17:53:05.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Ambush]
+[26Dec2024 17:53:05.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Voluntary Exile]
+[26Dec2024 17:53:09.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Ambush]
