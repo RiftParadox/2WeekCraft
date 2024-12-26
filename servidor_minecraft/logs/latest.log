@@ -2687,3 +2687,136 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 20:56:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
 [26Dec2024 20:56:11.140] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
 [26Dec2024 20:56:13.971] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[26Dec2024 20:57:36.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 20:57:36.234] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 20:58:00.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [Well, that was disgusting]
+[26Dec2024 20:58:21.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 20:58:21.332] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 20:58:34.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Penteconter]
+[26Dec2024 20:58:44.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Penteconter]
+[26Dec2024 20:59:19.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 20:59:19.333] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 20:59:38.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 20:59:38.782] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:00:03.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by Skeleton
+[26Dec2024 21:00:03.933] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:00:15.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:00:15.982] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:00:24.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:00:24.635] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:00:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:00:44.788] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:00:59.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:00:59.939] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:01:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by Skeleton
+[26Dec2024 21:01:37.634] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:02:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:02:49.738] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:02:56.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:02:56.787] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:03:08.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:03:08.088] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:03:08.110] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:03:08.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Dec2024 21:03:08.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:03:08.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:03:08.111] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:03:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 21:03:17.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:03:27.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:03:27.444] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:03:27.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[26Dec2024 21:03:37.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 21:03:53.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:03:53.385] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:04:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:04:06.535] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:04:21.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:04:21.483] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:04:33.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:04:33.784] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:04:33.809] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:04:33.809] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[26Dec2024 21:04:33.809] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:04:33.809] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:04:33.809] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:06:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:06:12.534] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:06:12.662] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:06:12.662] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Dec2024 21:06:12.662] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:06:12.662] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:06:12.662] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:06:13.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:06:13.282] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:06:29.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:06:29.790] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:06:29.843] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:06:29.843] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[26Dec2024 21:06:29.843] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:06:29.843] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:06:29.843] [Netty Epoll Server IO #3/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:06:37.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:06:37.183] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:06:37.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:06:37.983] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:06:49.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:06:49.985] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:07:17.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:07:17.986] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:07:18.046] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:07:18.047] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[26Dec2024 21:07:18.047] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:07:18.047] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:07:18.047] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:07:35.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:07:35.784] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:07:35.861] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Dec2024 21:07:35.861] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[26Dec2024 21:07:35.861] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Dec2024 21:07:35.861] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Dec2024 21:07:35.861] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[26Dec2024 21:08:04.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by Skeleton
+[26Dec2024 21:08:04.734] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:09:33.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:09:33.239] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:09:56.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:09:56.383] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:09:57.842] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=71, y=83, z=840}
+[26Dec2024 21:10:05.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 fell from a high place
+[26Dec2024 21:10:05.451] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:12:29.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:12:29.336] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:12:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was shot by Skeleton
+[26Dec2024 21:12:37.635] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:12:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:12:44.585] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:12:50.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[26Dec2024 21:12:50.586] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:12:56.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:13:10.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[26Dec2024 21:13:13.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[26Dec2024 21:13:13.633] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:13:18.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[26Dec2024 21:13:18.089] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:13:42.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 21:14:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:14:00.236] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:14:00.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 21:14:01.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=64, y=90, z=843}
+[26Dec2024 21:14:24.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by Skeleton
+[26Dec2024 21:14:24.282] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:14:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:14:55.536] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:21:19.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:21:19.387] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:21:38.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was burnt to a crisp whilst fighting Wither Skeleton
+[26Dec2024 21:21:38.883] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:21:43.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Skeleton
+[26Dec2024 21:21:43.388] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:23:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Skeleton
+[26Dec2024 21:23:01.636] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 21:23:06.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[26Dec2024 21:23:06.592] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[26Dec2024 21:26:44.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 burned to death
+[26Dec2024 21:26:44.836] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
