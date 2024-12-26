@@ -1127,3 +1127,4 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 17:16:48.452] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
 [26Dec2024 17:16:48.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
 [26Dec2024 17:17:47.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 64 [Coal] to ANTH3]
+[26Dec2024 17:27:30.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 5 [Diamond Hammer] to ANTH3]
