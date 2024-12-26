@@ -11233,3 +11233,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [26Dec2024 21:42:01.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26Dec2024 21:47:01.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Dec2024 21:47:01.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:48:32.897] [Server thread/DEBUG] [mixin/]: Mixing ItemInputMixin from tombstone.mixins.json into net.minecraft.commands.arguments.item.ItemInput
+[26Dec2024 21:48:32.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 128 [Coal] to ANTH3]
+[26Dec2024 21:52:01.309] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:52:01.323] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:53:25.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Applied effect Glowing to SrDaalo]
+[26Dec2024 21:54:03.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Applied effect Glowing to SrDaalo]
+[26Dec2024 21:54:19.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Applied effect Glowing to ANTH3]
+[26Dec2024 21:55:56.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Removed every effect from 2 targets]
+[26Dec2024 21:56:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Chest] to ANTH3]
+[26Dec2024 21:57:01.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Dec2024 21:57:01.324] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Dec2024 21:57:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Hot Stuff]
+[26Dec2024 21:57:09.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Lava Bucket] to ANTH3]
+[26Dec2024 21:57:10.647] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[26Dec2024 21:58:05.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Removed every effect from SrDaalo]
