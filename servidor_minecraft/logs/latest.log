@@ -1241,3 +1241,18 @@ java.util.ConcurrentModificationException: null
 [26Dec2024 18:40:15.456] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
 [26Dec2024 18:40:32.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
 [26Dec2024 18:40:42.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/36627, l='ServerLevel[world]', x=-1055.44, y=75.00, z=562.05] died: Zombie Player was shot by ANTH3
+[26Dec2024 18:45:33.882] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/PrimaryMatch
+[26Dec2024 18:45:33.885] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[26Dec2024 18:46:29.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set SrDaalo's game mode to Survival Mode]
+[26Dec2024 18:46:29.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[26Dec2024 18:46:51.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie Horse
+[26Dec2024 18:46:51.802] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:46:51.803] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:48:29.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie Horse
+[26Dec2024 18:48:29.702] [Server thread/WARN] [tombstone/]: The drop event of the player ANTH3 was canceled by another mod
+[26Dec2024 18:48:29.703] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[26Dec2024 18:48:35.999] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombiePlayer['ANTH3'/37629, l='ServerLevel[world]', x=-1004.75, y=78.00, z=581.50] died: Zombie Player was slain by SrDaalo
+[26Dec2024 18:48:44.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[26Dec2024 18:53:59.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Nightmare Stalker
+[26Dec2024 18:53:59.607] [Server thread/WARN] [tombstone/]: The drop event of the player SrDaalo was canceled by another mod
+[26Dec2024 18:53:59.612] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
