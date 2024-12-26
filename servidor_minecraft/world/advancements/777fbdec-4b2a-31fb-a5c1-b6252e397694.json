@@ -1812,7 +1812,8 @@
       "spider_nest": "2024-12-26 03:01:20 +0000",
       "pasture": "2024-12-26 18:29:14 +0000",
       "fir_clearing": "2024-12-26 01:59:20 +0000",
-      "prairie": "2024-12-26 01:32:36 +0000"
+      "prairie": "2024-12-26 01:32:36 +0000",
+      "gravel_beach": "2024-12-26 18:54:42 +0000"
     },
     "done": false
   },
@@ -4036,6 +4037,12 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-26 19:01:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2024-12-26 18:11:26 +0000"
@@ -4233,6 +4240,12 @@
       "has_planks": "2024-12-26 16:26:34 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-26 18:56:56 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
@@ -4501,6 +4514,12 @@
   "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
       "has_material": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-26 18:55:37 +0000"
     },
     "done": true
   },
