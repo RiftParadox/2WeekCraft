@@ -13,12 +13,12 @@
 
 [Zombifications]
 	#Default true
-	"Should the player convert after getting killed by a zombie?" = false
+	"Should the player convert after getting killed by a zombie?" = true
 	#Default true
 	"Should the villager convert after getting killed by a zombie?" = true
 	#Default 0.2
 	#Range: 0.05 ~ 1.7976931348623157E308
-	"What should be the chance of the player/villager converting to a zombie/zombie villager when getting killed?" = 0.05
+	"What should be the chance of the player/villager converting to a zombie/zombie villager when getting killed?" = 0.2
 
 ["AI Changes for the vanilla zombies"]
 	#Default true

@@ -3522,249 +3522,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
+      "has_log": "2024-12-26 16:23:43 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/chute": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2024-12-26 17:02:49 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wrench": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_press": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/rope_pulley": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
-    "criteria": {
-      "has_item": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite_stairs": {
-    "criteria": {
-      "has_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2024-12-26 19:15:00 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/super_glue": {
-    "criteria": {
-      "has_item": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/andesite_door": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-26 18:38:41 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/iron_nugget": {
-    "criteria": {
-      "has_copper_block": "2024-12-26 16:43:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/water_wheel": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
-    "criteria": {
-      "has_item": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/chute_iron": {
-    "criteria": {
-      "has_plate": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:super_glue": {
-    "criteria": {
-      "0": "2024-12-26 19:17:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-26 16:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2024-12-26 17:53:05 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2024-12-26 18:32:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2024-12-26 16:35:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_button": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/stone_pressure_plate": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
-    "criteria": {
-      "has_item": "2024-12-26 17:37:30 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/stone_destructor_hammer": {
-    "criteria": {
-      "has_material": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nightnight": {
-    "criteria": {
-      "nightnight_0": "2024-12-26 19:32:09 +0000"
+      "has_logs": "2024-12-26 16:23:43 +0000"
     },
     "done": true
   },
@@ -3774,33 +3540,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2024-12-26 18:07:37 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2024-12-26 18:07:37 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/belt_connector": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
     },
     "done": true
   },
@@ -3816,447 +3558,9 @@
     },
     "done": true
   },
-  "justhammers:recipes/tools/stone_impact_hammer": {
-    "criteria": {
-      "has_material": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/flower_banner_pattern": {
-    "criteria": {
-      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/shield": {
-    "criteria": {
-      "has_shield": "2024-12-26 18:07:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
-    "criteria": {
-      "has_plate_iron": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/clutch": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/depot": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2024-12-26 16:43:48 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:good_demoman": {
-    "criteria": {
-      "good_demoman_0": "2024-12-26 18:32:02 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/metal_girder": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/shaft": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/hand_crank": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:main/craft_hammer": {
-    "criteria": {
-      "has_item": "2024-12-26 18:11:29 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/gold_pile": {
-    "criteria": {
-      "has_item": "2024-12-26 16:43:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/turntable": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2024-12-26 16:23:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticker": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
-    "criteria": {
-      "has_cornflower": "2024-12-26 16:37:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2024-12-26 18:04:25 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/linked_controller": {
-    "criteria": {
-      "has_item": "2024-12-26 19:18:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/radial_chassis": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2024-12-26 18:05:30 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2024-12-26 16:23:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:shifting_gears": {
-    "criteria": {
-      "0": "2024-12-26 19:01:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
-    "criteria": {
-      "has_iron_plate": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/goggles": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2024-12-26 18:11:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/display_board": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
-    "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2024-12-26 16:43:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_stairs": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/speedometer": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/analog_lever": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:water_wheel": {
-    "criteria": {
-      "0": "2024-12-26 18:23:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/cart_assembler": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2024-12-26 18:38:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
       "has_planks": "2024-12-26 16:26:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
-    "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_casing": {
-    "criteria": {
-      "0": "2024-12-26 17:51:59 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
-    "criteria": {
-      "has_item": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/filter": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/white_sail": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-12-26 16:43:54 +0000"
-    },
-    "done": true
-  },
-  "immersive_weathering:recipes/stone_bricks": {
-    "criteria": {
-      "has_copper_block": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2024-12-26 18:03:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
     },
     "done": true
   },
@@ -4266,57 +3570,33 @@
     },
     "done": true
   },
-  "create:wrench_goggles": {
+  "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
-      "0": "2024-12-26 18:56:56 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
-    "criteria": {
-      "has_tag": "2024-12-26 17:16:56 +0000"
+      "has_planks": "2024-12-26 16:26:34 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
+      "has_planks": "2024-12-26 16:26:34 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/sheetmetal_gold": {
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
-      "has_plate_gold": "2024-12-26 18:35:06 +0000"
+      "has_planks": "2024-12-26 16:26:34 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+  "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+      "has_poppy": "2024-12-26 16:35:11 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
-      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
-    "criteria": {
-      "has_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/clipboard": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/linear_chassis": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_cornflower": "2024-12-26 16:37:49 +0000"
     },
     "done": true
   },
@@ -4326,9 +3606,123 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+  "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
+      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-26 16:38:08 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/iron_nugget": {
+    "criteria": {
+      "has_copper_block": "2024-12-26 16:43:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-26 16:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-26 16:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 16:43:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2024-12-26 16:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-26 16:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-26 17:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-26 17:02:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_destructor_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_impact_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
     },
     "done": true
   },
@@ -4350,33 +3744,111 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_stone": "2024-12-26 17:16:45 +0000"
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_iron_plate": "2024-12-26 18:11:26 +0000"
+      "has_stone": "2024-12-26 17:16:45 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/millstone": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
+      "has_stone": "2024-12-26 17:16:45 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_sign": {
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_planks": "2024-12-26 16:26:34 +0000"
+      "has_stone": "2024-12-26 17:16:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "justhammers:recipes/tools/stone_hammer": {
     "criteria": {
-      "has_reeds": "2024-12-26 18:40:04 +0000"
+      "has_material": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/stone_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2024-12-26 17:16:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/stone_bricks": {
+    "criteria": {
+      "has_copper_block": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-26 17:16:56 +0000"
     },
     "done": true
   },
@@ -4386,63 +3858,123 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
+  "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_slime_ball": "2024-12-26 18:04:25 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/fried_rice": {
+  "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+  "create:recipes/building_blocks/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
     "criteria": {
-      "has_magic_tablet": "2024-12-26 18:07:37 +0000"
+      "has_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/basin": {
+  "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+  "create:recipes/building_blocks/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+  "create:recipes/building_blocks/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
+      "has_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+  "create:recipes/building_blocks/cut_andesite_brick_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_andesite_from_stone_types_andesite_stonecutting": {
+    "criteria": {
+      "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 17:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 17:34:32 +0000"
     },
     "done": true
   },
@@ -4464,87 +3996,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
-    "criteria": {
-      "has_azure_bluet": "2024-12-26 16:38:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
-    "criteria": {
-      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2024-12-26 18:04:25 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/ambush": {
-    "criteria": {
-      "coded_trigger": "2024-12-26 17:53:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2024-12-26 17:16:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_flint": "2024-12-26 17:02:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/andesite_pillar_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-26 17:34:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2024-12-26 18:40:04 +0000"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/survey_tools": {
-    "criteria": {
-      "has_hammer": "2024-12-26 18:11:29 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/stone_hammer": {
-    "criteria": {
-      "has_material": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2024-12-26 18:55:37 +0000"
     },
     "done": true
   },
@@ -4572,60 +4026,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/cogwheel": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2024-12-26 18:38:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
-    "criteria": {
-      "has_stone": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/contraption_controls": {
-    "criteria": {
-      "has_item": "2024-12-26 17:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2024-12-26 18:35:06 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
-    "criteria": {
-      "has_planks": "2024-12-26 16:26:34 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
-    "criteria": {
-      "has_planks": "2024-12-26 16:26:34 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
-    "criteria": {
-      "has_item": "2024-12-26 18:32:41 +0000"
-    },
-    "done": true
-  },
-  "justhammers:recipes/tools/stone_reinforced_hammer": {
-    "criteria": {
-      "has_material": "2024-12-26 17:16:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-26 17:34:32 +0000"
@@ -4638,9 +4038,249 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+  "create:recipes/misc/crafting/kinetics/chute": {
     "criteria": {
-      "has_oxeye_daisy": "2024-12-26 16:38:02 +0000"
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wrench": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_shaft": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rope_pulley": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel_from_little": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_block": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/wooden_bracket": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/belt_connector": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/minecart_coupling": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/metal_girder": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/shaft": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/hand_crank": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/turntable": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_bars_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticker": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/radial_chassis": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sticky_mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/goggles": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_block": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/display_board": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/piston_extension_pole": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_scaffolding_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/speedometer": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/analog_lever": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cart_assembler": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/filter": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/white_sail": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/clipboard": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/linear_chassis": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/windmill_bearing": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/basin": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/large_cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/logistics/andesite_funnel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_mixer": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/andesite_ladder_from_andesite_alloy_stonecutting": {
+    "criteria": {
+      "has_andesite_alloy": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/cogwheel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/contraption_controls": {
+    "criteria": {
+      "has_item": "2024-12-26 17:34:54 +0000"
     },
     "done": true
   },
@@ -4650,9 +4290,321 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/large_water_wheel": {
+    "criteria": {
+      "has_item": "2024-12-26 17:37:30 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-26 17:51:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-26 17:52:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-26 17:53:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 17:53:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-26 18:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2024-12-26 18:04:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-26 18:05:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-26 18:07:37 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2024-12-26 18:07:37 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/shield": {
+    "criteria": {
+      "has_shield": "2024-12-26 18:07:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2024-12-26 18:07:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/chute_iron": {
+    "criteria": {
+      "has_plate": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_iron": {
+    "criteria": {
+      "has_plate_iron": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_placer": {
+    "criteria": {
+      "has_iron_plate": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/fluid_pipe": {
+    "criteria": {
+      "has_iron_plate": "2024-12-26 18:11:26 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-12-26 18:11:29 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/survey_tools": {
+    "criteria": {
+      "has_hammer": "2024-12-26 18:11:29 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:mygothgf": {
     "criteria": {
       "mygothgf_0": "2024-12-26 18:21:15 +0000"
+    },
+    "done": true
+  },
+  "create:water_wheel": {
+    "criteria": {
+      "0": "2024-12-26 18:23:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2024-12-26 18:32:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:32:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/sheetmetal_gold": {
+    "criteria": {
+      "has_plate_gold": "2024-12-26 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2024-12-26 18:35:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-26 18:38:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-26 18:38:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-26 18:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-26 18:38:42 +0000"
     },
     "done": true
   },
@@ -4662,9 +4614,87 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/gearshift": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_item": "2024-12-26 17:52:07 +0000"
+      "has_reeds": "2024-12-26 18:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-26 18:40:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2024-12-26 18:55:37 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-26 18:56:56 +0000"
+    },
+    "done": false
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-26 19:01:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2024-12-26 19:15:00 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-26 19:17:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/linked_controller": {
+    "criteria": {
+      "has_item": "2024-12-26 19:18:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nightnight": {
+    "criteria": {
+      "nightnight_0": "2024-12-26 19:32:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/tinted_glass_lead_wire": {
+    "criteria": {
+      "has_amethyst": "2024-12-26 19:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-26 19:37:18 +0000"
     },
     "done": true
   },
