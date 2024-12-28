@@ -3403,3 +3403,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [28Dec2024 02:51:22.997] [Server thread/INFO] [tombstone/]: The player Troya98 has successfully been saved
 [28Dec2024 02:52:52.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has reached the goal [Exorcism]
 [28Dec2024 02:55:18.121] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/gui/IESlot$NewFluidContainer$Filter
+[28Dec2024 02:57:52.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> mateme
+[28Dec2024 02:57:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Troya98
+[28Dec2024 02:57:57.724] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[28Dec2024 02:59:53.223] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[28Dec2024 03:01:46.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[28Dec2024 03:02:01.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 was slain by SrDaalo
+[28Dec2024 03:02:01.703] [Server thread/INFO] [tombstone/]: The player Troya98 has successfully been saved
+[28Dec2024 03:02:49.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Don't drink this...]
+[28Dec2024 03:03:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Oiled up and ready to go]

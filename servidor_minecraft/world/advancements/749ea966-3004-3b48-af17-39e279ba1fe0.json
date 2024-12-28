@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 03:03:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-28 02:39:48 +0000"
@@ -728,6 +734,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2024-12-28 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 03:03:26 +0000"
     },
     "done": true
   },
@@ -1563,13 +1575,21 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "pumpkin_pie": "2024-12-28 02:40:27 +0000"
+      "cooked_beef": "2024-12-28 02:57:23 +0000",
+      "pumpkin_pie": "2024-12-28 02:40:27 +0000",
+      "bread": "2024-12-28 02:57:29 +0000"
     },
     "done": false
   },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-28 02:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-28 03:03:26 +0000"
     },
     "done": true
   },
