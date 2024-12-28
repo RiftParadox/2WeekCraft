@@ -3329,3 +3329,10 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [28Dec2024 02:36:09.237] [Server thread/INFO] [tombstone/]: The player Troya98 has successfully been saved
 [28Dec2024 02:36:10.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has made the advancement [The Most Useful Key]
 [28Dec2024 02:36:12.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has reached the goal [Here They Come]
+[28Dec2024 02:38:17.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has made the advancement [Dark Metallurgy]
+[28Dec2024 02:38:30.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has made the advancement [Stone Age]
+[28Dec2024 02:41:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has made the advancement [Suit Up]
+[28Dec2024 02:41:47.806] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[28Dec2024 02:42:00.811] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[28Dec2024 02:42:11.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Teleported Troya98 to SrDaalo]
+[28Dec2024 02:46:45.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
