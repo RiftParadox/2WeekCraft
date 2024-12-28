@@ -11805,3 +11805,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [28Dec2024 03:03:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Oiled up and ready to go]
 [28Dec2024 03:06:06.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 03:06:06.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:11:06.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:11:06.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:13:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Troya98 has made the advancement [Diamonds!]
+[28Dec2024 03:16:06.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:16:06.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -107,6 +107,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:40:10 +0000"
@@ -128,6 +140,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:40:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -287,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:zombie": "2024-12-28 02:51:03 +0000"
@@ -392,6 +416,18 @@
   "biomesoplenty:recipes/transportation/magic_boat": {
     "criteria": {
       "in_water": "2024-12-28 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -539,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2024-12-28 03:10:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2024-12-28 02:39:36 +0000"
@@ -566,6 +608,12 @@
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 02:50:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -683,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-12-28 03:09:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_tripwire_hook": "2024-12-28 02:39:27 +0000"
@@ -722,6 +776,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-28 02:38:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -797,6 +857,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/root": {
     "criteria": {
       "crafting_table": "2024-12-28 02:39:06 +0000"
@@ -845,6 +911,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-28 02:39:24 +0000"
@@ -866,6 +938,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-28 02:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -1025,6 +1103,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-28 03:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
     "criteria": {
       "has_dark_prismarine": "2024-12-28 02:39:26 +0000"
@@ -1045,6 +1129,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "coniferous_forest": "2024-12-28 03:06:16 +0000",
       "fir_clearing": "2024-12-28 02:42:12 +0000"
     },
     "done": false
@@ -1187,9 +1272,21 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2024-12-28 03:13:13 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-28 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 03:10:49 +0000"
     },
     "done": true
   },
@@ -1214,6 +1311,12 @@
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-28 02:39:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
@@ -1555,6 +1658,12 @@
     },
     "done": true
   },
+  "immersive_weathering:immersive_weathering/dirts": {
+    "criteria": {
+      "dirt": "2024-12-28 03:11:53 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-28 02:38:30 +0000"
@@ -1614,6 +1723,12 @@
   "tombstone:adventure/ashes_and_bones": {
     "criteria": {
       "coded_trigger": "2024-12-28 02:51:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2024-12-28 03:13:13 +0000"
     },
     "done": true
   },
