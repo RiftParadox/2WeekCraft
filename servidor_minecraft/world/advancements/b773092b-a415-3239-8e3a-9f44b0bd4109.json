@@ -624,6 +624,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-28 02:51:52 +0000",
       "cooked_mutton": "2024-12-26 18:17:43 +0000",
       "cooked_beef": "2024-12-23 19:49:11 +0000",
       "potato": "2024-12-23 17:05:30 +0000",
@@ -5956,6 +5957,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-28 02:52:52 +0000"
     },
     "done": true
   },
