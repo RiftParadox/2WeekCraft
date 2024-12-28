@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2024-12-28 03:19:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-28 02:39:48 +0000"
@@ -313,6 +319,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2024-12-28 03:25:35 +0000",
       "minecraft:zombie": "2024-12-28 02:51:03 +0000"
     },
     "done": false
@@ -707,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 03:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-28 02:35:21 +0000"
@@ -1049,6 +1062,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 03:22:35 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-28 02:39:24 +0000"
@@ -1170,9 +1189,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-28 03:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-12-28 02:38:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2024-12-28 03:25:37 +0000"
     },
     "done": true
   },
@@ -1221,6 +1252,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-28 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 03:22:35 +0000"
     },
     "done": true
   },
@@ -1299,6 +1336,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-28 02:39:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2024-12-28 03:22:35 +0000"
     },
     "done": true
   },
@@ -1479,6 +1522,12 @@
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2024-12-28 02:35:21 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-28 03:25:37 +0000"
     },
     "done": true
   },
@@ -1717,6 +1766,12 @@
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2024-12-28 02:50:16 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/jerrycan": {
+    "criteria": {
+      "has_bucket": "2024-12-28 03:23:03 +0000"
     },
     "done": true
   },
