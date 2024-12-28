@@ -11093,3 +11093,50 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [28Dec2024 02:02:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has completed the challenge [Centennial]
 [28Dec2024 02:03:18.269] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
 [28Dec2024 02:03:18.277] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/upgrades/ContentsFilterType
+[28Dec2024 02:06:06.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:06:06.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:06:20.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/PathFindingStatus
+[28Dec2024 02:06:20.984] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/AbstractAdvancedPathNavigate$RestrictionType
+[28Dec2024 02:06:20.989] [Ice and Fire Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/pathfinding/raycoms/SurfaceType
+[28Dec2024 02:07:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SrDaalo a server operator
+[28Dec2024 02:08:58.991] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[28Dec2024 02:08:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola bros
+[28Dec2024 02:09:18.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] escribame si lee esto
+[28Dec2024 02:09:27.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SrDaalo> okey
+[28Dec2024 02:09:54.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] regalito
+[28Dec2024 02:10:07.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was killed whilst fighting Skeleton
+[28Dec2024 02:10:07.498] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[28Dec2024 02:10:07.502] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:55, y:71, z:1727, dim:minecraft:overworld]
+[28Dec2024 02:10:07.503] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[28Dec2024 02:10:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed SrDaalo
+[28Dec2024 02:10:07.511] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[28Dec2024 02:10:07.579] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 02:10:07.581] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[28Dec2024 02:10:07.581] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 02:10:07.581] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 02:10:07.581] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 02:10:08.400] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 02:10:08.400] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[28Dec2024 02:10:08.400] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 02:10:08.400] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 02:10:08.400] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 02:10:09.130] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 02:10:09.130] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[28Dec2024 02:10:09.130] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 02:10:09.130] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 02:10:09.131] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 02:10:09.918] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[28Dec2024 02:10:09.919] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[28Dec2024 02:10:09.919] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[28Dec2024 02:10:09.919] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[28Dec2024 02:10:09.919] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[28Dec2024 02:10:13.195] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[28Dec2024 02:10:13.207] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[28Dec2024 02:10:13.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[28Dec2024 02:10:13.211] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[28Dec2024 02:10:13.229] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[28Dec2024 02:10:13.232] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[28Dec2024 02:10:19.123] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[28Dec2024 02:10:23.099] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Dec2024 02:11:06.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:11:06.677] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
