@@ -5877,9 +5877,21 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
-      "naga": "2024-12-26 23:37:54 +0000"
+      "has_item_frame": "2024-12-26 23:27:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-26 23:31:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-26 23:31:57 +0000"
     },
     "done": true
   },
@@ -5895,27 +5907,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_mushroom_stew": "2024-12-26 23:31:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glow_item_frame": {
-    "criteria": {
-      "has_item_frame": "2024-12-26 23:27:23 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/mixed_salad": {
     "criteria": {
       "has_bowl": "2024-12-26 23:32:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "mowziesmobs:kill_naga": {
     "criteria": {
-      "has_mushroom_stew": "2024-12-26 23:31:57 +0000"
+      "naga": "2024-12-26 23:37:54 +0000"
     },
     "done": true
   },
