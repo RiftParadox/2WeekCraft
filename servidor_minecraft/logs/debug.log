@@ -11816,3 +11816,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.sounds.SoundEvent.m
 [28Dec2024 03:25:10.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Teleported SrDaalo to Troya98]
 [28Dec2024 03:26:06.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 03:26:06.681] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:31:06.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:31:06.678] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 03:36:06.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 03:36:06.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
