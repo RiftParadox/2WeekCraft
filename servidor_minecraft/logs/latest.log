@@ -1129,3 +1129,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 01:30:12.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by SrDaalo
 [29Dec2024 01:30:12.039] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
 [29Dec2024 01:43:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Weed Wacker]
+[29Dec2024 02:04:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
