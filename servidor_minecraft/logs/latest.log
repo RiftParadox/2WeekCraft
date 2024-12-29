@@ -1213,3 +1213,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 03:52:38.104] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
 [29Dec2024 04:15:10.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
 [29Dec2024 04:18:42.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Windmill for the land]
+[29Dec2024 04:30:05.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Chest Slayer]

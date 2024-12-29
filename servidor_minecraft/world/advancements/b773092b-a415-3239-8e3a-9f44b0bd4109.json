@@ -6157,6 +6157,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2024-12-29 04:30:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/scoria": {
     "criteria": {
       "has_item": "2024-12-29 01:23:24 +0000"
