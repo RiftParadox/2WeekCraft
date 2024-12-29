@@ -6157,6 +6157,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_disenchantment": {
+    "criteria": {
+      "coded_trigger": "2024-12-29 03:40:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2024-12-29 01:01:08 +0000"
