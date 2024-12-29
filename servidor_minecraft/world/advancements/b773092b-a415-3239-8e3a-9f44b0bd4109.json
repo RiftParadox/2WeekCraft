@@ -6127,6 +6127,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2024-12-29 01:41:23 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-12-29 01:01:08 +0000"
