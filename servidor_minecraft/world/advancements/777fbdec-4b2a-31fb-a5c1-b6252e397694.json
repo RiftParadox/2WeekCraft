@@ -5242,6 +5242,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-29 02:36:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/deployer": {
     "criteria": {
       "has_item": "2024-12-29 01:45:29 +0000"
@@ -5254,9 +5260,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-29 02:36:16 +0000"
+    },
+    "done": false
+  },
   "create:recipes/misc/crafting/kinetics/gearboxfrom_conversion": {
     "criteria": {
       "has_item": "2024-12-29 02:01:25 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2024-12-29 02:38:54 +0000"
     },
     "done": true
   },

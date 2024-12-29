@@ -1136,3 +1136,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:20:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
 [29Dec2024 02:22:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
 [29Dec2024 02:22:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:36:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [The Parrots and the Bats]
+[29Dec2024 02:36:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by ANTH3
+[29Dec2024 02:36:42.657] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:37:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by ANTH3
+[29Dec2024 02:37:07.554] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[29Dec2024 02:38:11.010] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[29Dec2024 02:38:16.160] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[29Dec2024 02:38:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has completed the challenge [I'm not sugar coating it]
+[29Dec2024 02:38:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo died
+[29Dec2024 02:38:38.211] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [Yo mama so fat, she digests her fetuses]

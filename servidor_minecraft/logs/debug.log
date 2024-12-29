@@ -9605,3 +9605,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:26:33.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Dec2024 02:31:33.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 02:31:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 02:36:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [The Parrots and the Bats]
+[29Dec2024 02:36:33.927] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 02:36:33.942] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 02:36:42.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by ANTH3
+[29Dec2024 02:36:42.655] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-930, y:76, z:638, dim:minecraft:overworld]
+[29Dec2024 02:36:42.657] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:37:07.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was shot by ANTH3
+[29Dec2024 02:37:07.552] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-933, y:78, z:653, dim:minecraft:overworld]
+[29Dec2024 02:37:07.554] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:11.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Zombie
+[29Dec2024 02:38:11.004] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-937, y:79, z:654, dim:minecraft:overworld]
+[29Dec2024 02:38:11.010] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Zombie
+[29Dec2024 02:38:16.154] [Server thread/DEBUG] [tombstone/]: A new grave of the player ANTH3 was created at position [x:-943, y:78, z:662, dim:minecraft:overworld]
+[29Dec2024 02:38:16.160] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[29Dec2024 02:38:35.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has completed the challenge [I'm not sugar coating it]
+[29Dec2024 02:38:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo died
+[29Dec2024 02:38:38.204] [Server thread/DEBUG] [tombstone/]: A new grave of the player SrDaalo was created at position [x:-953, y:73, z:579, dim:minecraft:overworld]
+[29Dec2024 02:38:38.211] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 02:38:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[29Dec2024 02:41:33.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 02:41:33.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

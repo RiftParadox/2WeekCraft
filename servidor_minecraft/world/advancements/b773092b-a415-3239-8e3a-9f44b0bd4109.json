@@ -6169,6 +6169,12 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-12-29 02:38:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 01:01:08 +0000"
@@ -6184,6 +6190,12 @@
   "farmersdelight:recipes/decorations/acacia_cabinet": {
     "criteria": {
       "has_acacia_trapdoor": "2024-12-29 01:05:08 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill": {
+    "criteria": {
+      "has_windmill_blade": "2024-12-29 02:41:29 +0000"
     },
     "done": true
   },
