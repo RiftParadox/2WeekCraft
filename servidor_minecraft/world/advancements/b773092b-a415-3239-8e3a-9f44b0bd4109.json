@@ -5924,6 +5924,54 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2024-12-28 02:02:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2024-12-28 02:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-12-28 02:43:49 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2024-12-28 02:52:52 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:main/creosote": {
     "criteria": {
       "has_item": "2024-12-28 03:02:49 +0000"
@@ -5948,27 +5996,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_leggings": {
-    "criteria": {
-      "has_item": "2024-12-28 02:33:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-12-28 02:43:49 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/workbench": {
     "criteria": {
       "has_treated_planks": "2024-12-28 03:03:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_helmet": {
-    "criteria": {
-      "has_item": "2024-12-28 02:33:54 +0000"
     },
     "done": true
   },
@@ -6002,21 +6032,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
-    "criteria": {
-      "has_dragonscales_white": "2024-12-28 02:33:54 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/capacitor_hv": {
     "criteria": {
       "has_treated_planks": "2024-12-28 03:03:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_chestplate": {
-    "criteria": {
-      "has_item": "2024-12-28 02:33:54 +0000"
     },
     "done": true
   },
@@ -6029,12 +6047,6 @@
   "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
     "criteria": {
       "has_treated_wood_horizontal": "2024-12-28 03:03:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_white_boots": {
-    "criteria": {
-      "has_item": "2024-12-28 02:33:54 +0000"
     },
     "done": true
   },
@@ -6062,21 +6074,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2024-12-28 02:52:52 +0000"
-    },
-    "done": true
-  },
   "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
     "criteria": {
       "has_treated_wood_horizontal": "2024-12-28 03:03:28 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2024-12-28 02:02:35 +0000"
     },
     "done": true
   },
