@@ -1130,3 +1130,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 01:30:12.039] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
 [29Dec2024 01:43:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has made the advancement [Weed Wacker]
 [29Dec2024 02:04:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[29Dec2024 02:13:16.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:15:33.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:20:30.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:20:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:22:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:22:18.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
