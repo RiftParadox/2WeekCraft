@@ -1068,3 +1068,29 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 00:37:35.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
 [29Dec2024 00:39:25.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 248 [Rotten Flesh] to SrDaalo
 [29Dec2024 00:41:35.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 248 [Rotten Flesh] to SrDaalo
+[29Dec2024 01:05:19.463] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ANTH3[/100.69.143.60:54146] logged in with entity id 7219 at (-592.9546765733887, 77.0, 663.0258065570234)
+[29Dec2024 01:05:19.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 joined the game
+[29Dec2024 01:06:41.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[29Dec2024 01:10:29.652] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/tacz/guns/api/event/common/GunDamageSourcePart
+[29Dec2024 01:10:42.795] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[29Dec2024 01:10:43.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[29Dec2024 01:11:12.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[29Dec2024 01:11:12.160] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 01:11:12.165] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[29Dec2024 01:11:12.165] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[29Dec2024 01:11:12.166] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 01:11:12.167] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[29Dec2024 01:11:12.188] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 01:11:12.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Gave 1 [Dead pig] to SrDaalo]
+[29Dec2024 01:11:25.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[29Dec2024 01:11:25.117] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 01:11:26.503] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[29Dec2024 01:11:27.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Husk
+[29Dec2024 01:11:27.039] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[29Dec2024 01:11:44.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 was slain by Husk
+[29Dec2024 01:11:44.916] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[29Dec2024 01:11:44.971] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[29Dec2024 01:11:44.972] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[29Dec2024 01:11:44.972] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[29Dec2024 01:11:44.973] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[29Dec2024 01:11:44.973] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
