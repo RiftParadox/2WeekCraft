@@ -1166,3 +1166,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:54:37.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
 [29Dec2024 02:54:51.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
 [29Dec2024 02:57:21.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[29Dec2024 03:04:49.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 03:05:17.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Creative Mode]
+[29Dec2024 03:05:21.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 03:09:03.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Teleported ANTH3 to SrDaalo]
+[29Dec2024 03:10:24.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ANTH3 lost connection: Disconnected
+[29Dec2024 03:10:24.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 left the game
