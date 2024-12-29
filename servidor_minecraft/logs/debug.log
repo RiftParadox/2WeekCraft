@@ -9775,3 +9775,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 05:43:27.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Creative Mode]
 [29Dec2024 05:43:58.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SrDaalo: Set own game mode to Survival Mode]
 [29Dec2024 05:44:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo has made the advancement [Immersive Engineering]
+[29Dec2024 05:46:33.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:46:33.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 05:49:21.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SrDaalo lost connection: Disconnected
+[29Dec2024 05:49:21.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo left the game
+[29Dec2024 05:51:33.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 05:51:33.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
