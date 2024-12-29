@@ -6102,6 +6102,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-29 05:23:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_aluminum3": {
     "criteria": {
       "has_raw_aluminum": "2024-12-29 04:36:44 +0000"
@@ -6114,6 +6120,12 @@
       "minecraft:nether_wastes": "2024-12-29 01:13:00 +0000"
     },
     "done": false
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_uranium_to_ingot_uranium": {
+    "criteria": {
+      "has_storage_uranium": "2024-12-29 05:23:39 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
@@ -6157,6 +6169,12 @@
     },
     "done": false
   },
+  "immersiveengineering:recipes/misc/crafting/storage_nickel_to_ingot_nickel": {
+    "criteria": {
+      "has_storage_nickel": "2024-12-29 05:26:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_nickel_to_raw_nickel": {
     "criteria": {
       "has_raw_block_nickel": "2024-12-29 04:45:48 +0000"
@@ -6187,9 +6205,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_nickel_hammering": {
+    "criteria": {
+      "has_nickel_ingot": "2024-12-29 05:26:34 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/crafting/raw_block_uranium_to_raw_uranium": {
     "criteria": {
       "has_raw_block_uranium": "2024-12-29 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-29 05:23:30 +0000"
     },
     "done": true
   },
@@ -6211,9 +6241,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/ingot_uranium_to_storage_uranium": {
+    "criteria": {
+      "has_ingot_uranium": "2024-12-29 05:23:39 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
     "criteria": {
       "has_raw_silver": "2024-12-29 04:57:34 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_silver_to_storage_silver": {
+    "criteria": {
+      "has_ingot_silver": "2024-12-29 05:23:34 +0000"
     },
     "done": true
   },
@@ -6277,9 +6319,21 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/misc/crafting/plate_uranium_hammering": {
+    "criteria": {
+      "has_uranium_ingot": "2024-12-29 05:23:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-29 04:12:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_nickel_to_storage_nickel": {
+    "criteria": {
+      "has_ingot_nickel": "2024-12-29 05:26:34 +0000"
     },
     "done": true
   },
@@ -6298,6 +6352,24 @@
   "immersiveengineering:recipes/misc/crafting/raw_uranium_to_raw_block_uranium": {
     "criteria": {
       "has_raw_uranium": "2024-12-29 04:48:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-29 05:23:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-29 05:23:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-29 05:23:30 +0000"
     },
     "done": true
   },
@@ -6340,6 +6412,18 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-29 05:02:20 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_silver_to_ingot_silver": {
+    "criteria": {
+      "has_storage_silver": "2024-12-29 05:23:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-29 05:23:30 +0000"
     },
     "done": true
   },
