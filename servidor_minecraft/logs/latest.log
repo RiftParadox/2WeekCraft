@@ -1045,3 +1045,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 00:30:25.905] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
 [29Dec2024 00:30:25.906] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
 [29Dec2024 00:30:25.906] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[29Dec2024 00:33:10.010] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[29Dec2024 00:33:10.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[29Dec2024 00:33:10.216] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[29Dec2024 00:33:10.236] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 00:33:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo was slain by Husk
+[29Dec2024 00:33:19.417] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
+[29Dec2024 00:33:29.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['SrDaalo'/4638, l='ServerLevel[world]', x=-970.76, y=70.77, z=531.54] died: SrDaalo was slain by SrDaalo
+[29Dec2024 00:34:10.704] [Server thread/INFO] [hordes/]: Failed loading table null, loading fallback table hordes:fallback
+[29Dec2024 00:34:10.704] [Server thread/INFO] [hordes/]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@133485f3
+[29Dec2024 00:34:10.705] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombie_horse,weight=3,minDay=20,maxDay=40] to hordespawn on day 40
+[29Dec2024 00:34:10.705] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.husk,weight=40,minDay=20,maxDay=40] to hordespawn on day 40
+[29Dec2024 00:34:10.705] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.drowned,weight=3,minDay=30,maxDay=40]{{HandItems:[{Count:1,id:"trident"}],id:"minecraft:drowned"}} to hordespawn on day 40
+[29Dec2024 00:34:10.705] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zoglin,weight=3,minDay=40,maxDay=40] to hordespawn on day 40
+[29Dec2024 00:34:10.706] [Server thread/INFO] [hordes/]: Adding entry HordeSpawnEntry[type=entity.minecraft.zombified_piglin,weight=10,minDay=40,maxDay=0] to hordespawn on day 40
+[29Dec2024 00:35:13.342] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/crafting/fluidaware/TurnAndCopyRecipe$Rotation
+[29Dec2024 00:35:34.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Expected integer
+[29Dec2024 00:35:34.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...e SrDaalo default 30<--[HERE]
+[29Dec2024 00:35:35.716] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting blusunrize/immersiveengineering/common/gui/IESlot$NewFluidContainer$Filter
+[29Dec2024 00:36:56.390] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[29Dec2024 00:37:24.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[29Dec2024 00:37:35.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/Helper$RomanNumeral
+[29Dec2024 00:39:25.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 248 [Rotten Flesh] to SrDaalo
