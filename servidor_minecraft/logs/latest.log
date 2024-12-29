@@ -1149,3 +1149,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [29Dec2024 02:38:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SrDaalo died
 [29Dec2024 02:38:38.211] [Server thread/INFO] [tombstone/]: The player SrDaalo has successfully been saved
 [29Dec2024 02:38:54.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 has completed the challenge [Yo mama so fat, she digests her fetuses]
+[29Dec2024 02:49:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ANTH3 fell from a high place
+[29Dec2024 02:49:11.173] [Server thread/INFO] [tombstone/]: The player ANTH3 has successfully been saved
+[29Dec2024 02:49:52.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:49:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:50:21.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:50:41.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:50:51.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:51:02.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:51:28.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:52:39.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
+[29Dec2024 02:52:52.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Spectator Mode]
+[29Dec2024 02:53:34.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ANTH3: Set own game mode to Survival Mode]
