@@ -6247,6 +6247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-29 05:38:29 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/misc/smelting/ingot_silver3": {
     "criteria": {
       "has_raw_silver": "2024-12-29 04:57:34 +0000"
