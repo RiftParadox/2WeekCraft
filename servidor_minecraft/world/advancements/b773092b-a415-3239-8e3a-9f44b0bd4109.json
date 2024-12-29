@@ -1169,6 +1169,7 @@
       "minecraft:skeleton": "2024-12-23 17:35:28 +0000",
       "minecraft:zoglin": "2024-12-29 00:33:10 +0000",
       "minecraft:ghast": "2024-12-26 18:15:04 +0000",
+      "minecraft:magma_cube": "2024-12-29 01:18:22 +0000",
       "minecraft:spider": "2024-12-26 01:33:39 +0000",
       "minecraft:creeper": "2024-12-26 01:36:45 +0000",
       "minecraft:slime": "2024-12-26 20:52:47 +0000",
@@ -2096,6 +2097,7 @@
       "highland": "2024-12-23 19:49:25 +0000",
       "jacaranda_glade": "2024-12-23 19:50:48 +0000",
       "jade_cliffs": "2024-12-26 01:49:46 +0000",
+      "withered_abyss": "2024-12-29 01:13:10 +0000",
       "field": "2024-12-23 18:52:25 +0000",
       "orchard": "2024-12-26 01:18:48 +0000",
       "coniferous_forest": "2024-12-23 18:52:15 +0000",
@@ -2111,6 +2113,7 @@
       "prairie": "2024-12-26 01:33:22 +0000",
       "snowy_fir_clearing": "2024-12-28 02:24:38 +0000",
       "gravel_beach": "2024-12-26 18:53:14 +0000",
+      "undergrowth": "2024-12-29 01:18:22 +0000",
       "ominous_woods": "2024-12-26 23:34:34 +0000"
     },
     "done": false
@@ -6093,9 +6096,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-29 01:20:45 +0000",
+      "minecraft:nether_wastes": "2024-12-29 01:13:00 +0000"
+    },
+    "done": false
+  },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2024-12-29 01:18:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:23:24 +0000"
     },
     "done": true
   },
@@ -6114,6 +6136,12 @@
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2024-12-29 01:23:24 +0000"
     },
     "done": true
   },
@@ -6138,6 +6166,12 @@
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 01:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-29 01:23:24 +0000"
     },
     "done": true
   },
